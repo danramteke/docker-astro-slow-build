@@ -2,6 +2,8 @@
 
 This repo highlights very slow builds when building in Docker. On both Intel chips and Apple chips. When building on host OS, it's totally fine.
 
+Link to issue filed with Astro: https://github.com/withastro/astro/issues/2279
+
 ## Repro Steps
 
 `docker build .`
