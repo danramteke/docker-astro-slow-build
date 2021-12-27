@@ -1,4 +1,6 @@
 ---
 title: My first Blog Post
-layout: ../../layouts/PageLayout.astro
+layout: ../../layouts/BaseLayout.astro
 ---
+
+hello
