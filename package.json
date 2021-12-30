@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "astro": "^0.22.1"
+    "astro": "^0.22.3"
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build --verbose",
     "preview": "astro preview"
   }
 }
