@@ -4,7 +4,9 @@ This repo highlights very slow builds when building in Docker. On both Intel chi
 
 ## Issue 
 
-Link to issue filed with Astro: https://github.com/withastro/astro/issues/2279
+Link to issues filed with Astro: 
+- https://github.com/withastro/astro/issues/2279
+- https://github.com/withastro/astro/issues/2596
 
 ## Github Action
 
