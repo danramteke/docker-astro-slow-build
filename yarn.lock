@@ -520,7 +520,7 @@ assert@^2.0.0:
     object-is "^1.0.1"
     util "^0.12.0"
 
-astro@^0.25.0:
+astro@^0.25.3:
   version "0.25.3"
   resolved "https://registry.yarnpkg.com/astro/-/astro-0.25.3.tgz#d49a9c635fe3ca1a0353e05f82b0d82ae3f6ab91"
   integrity sha512-uNn61YjszmK4qGvv4MtvdMFt5LOgtFUu9I0ElavuifbXXVX0QCxf5l8miEOBpfkYXDZys23OTqYWZ7zVCGQiDQ==
