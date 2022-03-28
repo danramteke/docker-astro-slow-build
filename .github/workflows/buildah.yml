@@ -1,0 +1,20 @@
+name: Buildah
+
+on:
+	push:
+		branches:
+			- main
+
+jobs:
+	build:
+		name: Buildah Build
+		runs-on: ubuntu-latest
+		steps:
+			- uses: actions/checkout@v2
+
+			-
+				uses: redhat-actions/buildah-build@v2
+				with:
+					image: registry.github.com/danramteke/docker-astro-slow-build
+					tags: latest ${{ github.sha }}
+					containerfiles: ./Dockerfile
