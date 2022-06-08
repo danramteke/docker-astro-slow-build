@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "astro": "^0.25.3"
+    "astro": "1.0.0-beta.42"
   },
   "scripts": {
     "dev": "astro dev",
